@@ -1,0 +1,10 @@
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\bin\Debug\Test_2.exe.config
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\bin\Debug\Test_2.exe
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\bin\Debug\Test_2.pdb
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\obj\Debug\Test_2.csprojAssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\obj\Debug\Test_2.Form1.resources
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\obj\Debug\Test_2.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\obj\Debug\Test_2.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\obj\Debug\Test_2.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\obj\Debug\Test_2.exe
+C:\Users\ruzickat.04\source\repos\Test_2\Test_2\obj\Debug\Test_2.pdb
